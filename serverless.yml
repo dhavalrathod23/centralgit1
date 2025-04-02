@@ -30,7 +30,7 @@ functions:
   api:
     handler: handler.handler
     layers:
-      - arn:aws:lambda:ap-south-1:890756660068:layer:dep:1
+      - arn:aws:lambda:ap-south-1:312828120454:layer:dep:1
     events:
       - httpApi: '*'
 
